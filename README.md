@@ -3,7 +3,7 @@ I used the YouTube Data API V3 to extract key metrics such as video views, likes
 
 This project helped me improve my skills in API integration, data extraction, and analytics, as well as generating meaningful visual insights from complex datasets. It’s a valuable tool for content creators or digital marketers to optimize their strategies for better channel performance. You can check the project
 
-#Usage
+**Usage**
 Input the channel IDs you want to analyze in the script.
 The data will be fetched from YouTube and saved in a structured format.
 The script will generate visualizations and reports based on the extracted data.
@@ -16,7 +16,7 @@ Content Strategy: FING’s strategy of focusing on trending topics leads to bett
 Consistency: Channels that upload content consistently tend to retain and grow their audience over time, whereas channels with irregular uploads struggle to maintain engagement.
 Storytelling & Presentation: FING’s unique approach to presenting topics in a hypothetical, storytelling manner resonates well with viewers, making the content more engaging.
 
-#Future Work
+**Future Work**
 We plan to expand this project by:
 
 Integrating more metrics such as watch time and retention rates.
