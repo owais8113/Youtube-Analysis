@@ -4,11 +4,19 @@ I used the YouTube Data API V3 to extract key metrics such as video views, likes
 This project helped me improve my skills in API integration, data extraction, and analytics, as well as generating meaningful visual insights from complex datasets. It’s a valuable tool for content creators or digital marketers to optimize their strategies for better channel performance. You can check the project
 
 **Usage**
+
 Input the channel IDs you want to analyze in the script.
 The data will be fetched from YouTube and saved in a structured format.
 The script will generate visualizations and reports based on the extracted data.
 Customize the analysis to focus on metrics of interest such as views, engagement rate, or subscriber growth.
-Results
+
+**Tech Stack**
+Python: The main programming language used for data extraction and analysis.
+YouTube Data API V3: For fetching data from YouTube channels.
+Pandas & Numpy: Libraries for handling and processing large datasets.
+Matplotlib & Seaborn: For visualizing data through graphs and charts.
+
+**Results**
 By analyzing the performance of multiple YouTube channels, we observed several insights:
 
 Video Upload Frequency: Channels with a higher video upload frequency (e.g., FING) tend to have more consistent audience engagement and subscriber growth.
