@@ -11,12 +11,14 @@ The script will generate visualizations and reports based on the extracted data.
 Customize the analysis to focus on metrics of interest such as views, engagement rate, or subscriber growth.
 
 **Tech Stack**
+
 Python: The main programming language used for data extraction and analysis.
 YouTube Data API V3: For fetching data from YouTube channels.
 Pandas & Numpy: Libraries for handling and processing large datasets.
 Matplotlib & Seaborn: For visualizing data through graphs and charts.
 
 **Results**
+
 By analyzing the performance of multiple YouTube channels, we observed several insights:
 
 Video Upload Frequency: Channels with a higher video upload frequency (e.g., FING) tend to have more consistent audience engagement and subscriber growth.
@@ -25,6 +27,7 @@ Consistency: Channels that upload content consistently tend to retain and grow t
 Storytelling & Presentation: FING’s unique approach to presenting topics in a hypothetical, storytelling manner resonates well with viewers, making the content more engaging.
 
 **Future Work**
+
 We plan to expand this project by:
 
 Integrating more metrics such as watch time and retention rates.
